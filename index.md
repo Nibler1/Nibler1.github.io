@@ -33,12 +33,13 @@ I'm on a journey to transition into cybersecurity. With 120+ consecutive days of
 
 ## Skills
 
-- Network Enumeration (nmap)
-- Web Application Security (SQL injection, IDOR)
-- Linux & Windows Privilege Escalation
-- Password Cracking (john, hashcat)
-- Reverse Shells & Post-Exploitation
-- OSINT & Reconnaissance
+ Skills
+- **Network Enumeration:** nmap, rustscan
+- **Web Application Security:** SQL injection, IDOR, directory fuzzing (ffuf, gobuster)
+- **Linux & Windows Privilege Escalation:** SUID, sudo, capabilities
+- **Password Cracking:** john, hashcat, zip2john
+- **Post-Exploitation:** Reverse shells, LinPEAS, WinPEAS
+- **Database Exploitation:** MSSQL, MongoDB
 
 ---
 
